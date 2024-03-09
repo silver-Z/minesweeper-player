@@ -1,0 +1,6 @@
+**/__pycache__
+**/.ipynb_checkpoints
+assets/*
+digital_recognizer/*.ipynb
+digital_recognizer/assets
+Untitled.ipynb
