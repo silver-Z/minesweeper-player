@@ -1,0 +1,1 @@
+# Minesweeper player for MacOS
